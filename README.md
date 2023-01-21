@@ -19,6 +19,7 @@ We use the following tehcnologies:
 sample of the one page web application:
 
 ![image](https://user-images.githubusercontent.com/97471166/213766230-15c6a6ee-bc90-4b9e-9a7b-7c0f00ddbecf.png)
+![image](https://user-images.githubusercontent.com/97471166/213864306-bd98bba4-2507-4c0c-a7fb-590788d0b3f3.png)
 
 
 #
