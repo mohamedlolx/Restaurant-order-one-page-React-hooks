@@ -11,9 +11,10 @@ To get started developing right away:
 - start the development server with `npm start`
 
 We use the following tehcnologies:
-1-React: useState,useEffect,useContext and useReducer.
-2-JSX throught React (HTML,JS).
-3-Css Through React (Module.css).
+
+- React: useState,useEffect,useContext and useReducer.
+- JSX throught React (HTML,JS).
+- Css Through React (Module.css).
 
 
 sample of the one page web application:
